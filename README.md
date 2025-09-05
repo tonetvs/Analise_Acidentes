@@ -54,7 +54,10 @@ flowchart LR
 
 - pandas  
 - numpy  
-- plotly  
+- plotly
+- matplotlib
+- seaborn
+- colab  
 - dash  
 - dash-bootstrap-components  
 
@@ -62,32 +65,20 @@ flowchart LR
 
 ## 4. Execução
 
-Para rodar o projeto localmente:
-
-```bash
-pip install -r requirements.txt
-```
-
-No Jupyter Notebook ou Colab, execute o arquivo `Analise_acidentes_graves.ipynb`. O dashboard é iniciado com:
-
-```python
-app.run(mode='inline', debug=True)
-```
-
----
+O notebook principal já está com os resultados executados e documentados. Pode ser aberto diretamente em qualquer ambiente compatível com Jupyter Notebook.
 
 ## 5. Conclusão
 
 Este projeto mostra como dados públicos podem ser transformados em **informação estratégica** para segurança urbana. Os insights são claros e prontos para uso por órgãos públicos, prefeituras, e iniciativas de cidades inteligentes.
 
-Além disso, o projeto serve como **demonstração sólida de habilidades em análise de dados, visualização e storytelling com Dash**, sendo ideal para inclusão em portfólios profissionais.
+
 
 ---
 
 ## Autor
 
 **Heitor Tonet**  
-Engenheiro de Controle e Automação e Cientista de Dados, com foco em manutenção preditiva, análise de falhas e inteligência aplicada à indústria e cidades inteligentes.
+Engenheiro de Controle e Automação e Cientista de Dados, com foco em manutenção preditiva industrial, especializado em modelos de RUL, detecção de falhas, séries temporais e simulações baseadas em física.
 
 ---
 
